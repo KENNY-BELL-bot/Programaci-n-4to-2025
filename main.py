@@ -1,3 +1,3 @@
-b = 83
-a = 253
+a = str(input("Dame un número")) 
+b = 1
 print(a + b)
